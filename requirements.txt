@@ -1,7 +1,7 @@
 huggingface_hub==1.33.0
 keras-hub==0.32.0
 pdfplumber==0.11.10
-tensorflow==2.21.0
+tensorflow>=2.18.0
 tensorflow-text
 streamlit==1.64.0
 gTTS==2.2.4

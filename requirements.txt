@@ -1,0 +1,10 @@
+huggingface_hub
+keras-hub
+huggingface_hub
+pdfplumber
+pandas
+numpy
+tensorflow
+streamlit
+gTTS
+deep_translator

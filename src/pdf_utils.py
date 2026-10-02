@@ -26,7 +26,3 @@ def chunk_text(cleaned_text,chunk_size):
     return chunked_text
 
 
-text=extract_text_from_pdf("C:\\Users\\shrey\\OneDrive\\Documents\\NLP Project text summarization\\src\\MYOS.pdf")
-cleaned_text=clean_text(text)
-chunked_text=chunk_text(cleaned_text,CHUNK_WORD_LIMIT)
-print(type(chunked_text))
